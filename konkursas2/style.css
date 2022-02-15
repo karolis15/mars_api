@@ -1,0 +1,54 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: maroon;
+}
+#marsas {
+    color: maroon;
+    font-size: xx-large;
+}
+
+#nav {
+    color: papayawhip;
+    font-size: x-large;
+}
+#kitas {
+    font-size: xx-large;
+}
+.carousel-caption {
+    font-size: xx-large;
+}
+.rover {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.cards {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.root {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.card-title {
+    background-color: maroon;
+    padding: 0;
+    margin: 0;
+    color: papayawhip;
+}
+.header {
+    color:papayawhip;
+}
+.label {
+    color:papayawhip;
+}
